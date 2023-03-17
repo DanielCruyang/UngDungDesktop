@@ -1,0 +1,14 @@
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.FormChinh.resources
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai1.resources
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+C:\Users\My PC\Desktop\2115194_CruyangDaniel\2115194_CruyangDaniel\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai3.resources

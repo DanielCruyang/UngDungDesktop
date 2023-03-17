@@ -1,0 +1,9 @@
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\bin\Debug\Bài2.exe.config
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\bin\Debug\Bài2.exe
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\bin\Debug\Bài2.pdb
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\obj\Debug\Bài2.Properties.Resources.resources
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\obj\Debug\Bài2.csproj.GenerateResource.cache
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\obj\Debug\Bài2.csproj.CoreCompileInputs.cache
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\obj\Debug\Bài2.exe
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\obj\Debug\Bài2.pdb
+E:\2115194_CruyangDaniel\BaiThucHanhBuoi1\Bài2\obj\Debug\Bài2.MainForm.resources
